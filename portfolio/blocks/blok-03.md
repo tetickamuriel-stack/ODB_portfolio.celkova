@@ -2,7 +2,7 @@
 
 ## Cíl
 
-Chtěl jsem vytvořit 3D scénu představující noční kavárnu zvenku – výloha s rozsvíceným interiérem, stůl s židlemi před vchodem a pouliční lampa. Zajímalo mě, jak v Blenderu funguje světlo a jak docílit „teplého" nočního osvětlení.
+Chtěla jsem vytvořit 3D scénu představující menší rodinný dům se zahradou – rybníček s kapry koi, ohniště s lehátky a bazén se zeleninovou zahrádkou. Chtěla jsem utvořit příjemné prostředí pro rodinu i starší lidi v důchodu nebo snad jsako chata na kterou se každé léto těšíme.
 
 ---
 
