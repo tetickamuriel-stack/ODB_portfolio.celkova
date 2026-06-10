@@ -26,14 +26,11 @@ Renderoval jsem v Cycles, protože jsem chtěl realistické odrazy na skle. Trva
 
 ## Výstupy
 
-- Soubor scény `kavarna.blend`
-- Renderovaný výsledek:
+- Soubor scény `zahrada.blend`
+- Renderovaný výsledek: <img width="1555" height="877" alt="Snímek obrazovky 2026-06-01 211709" src="https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95" />
+                        <img width="1547" height="877" alt="Snímek obrazovky 2026-06-01 211728" src="https://github.com/user-attachments/assets/9a08e173-1d70-479f-8b73-01fd5c46b5c3" />
 
-![Render scény](../assets/images/blok3_render.png)
 
-- Render bez a se světly (srovnání):
-
-![Srovnání osvětlení](../assets/images/blok3_srovnani.png)
 
 ---
 
@@ -45,12 +42,9 @@ Jsem spokojený s výsledným osvětlením – teplé světlo z výlohy na dlaž
 
 ## Teoretické pozadí (stručně)
 
-3D objekty se skládají z vrcholů, hran a ploch (faces) – dohromady tvoří mesh. Tvar objektu upravuji v Edit Mode, kde pracuji přímo s geometrií. Materiály definují, jak povrch reaguje na světlo – použil jsem Principled BSDF, který kombinuje různé vlastnosti povrchu (barva, lesk, průhlednost). Renderování je výpočet výsledného obrazu ze 3D scény, přičemž Cycles simuluje fyzikálně korektní pohyb světelných paprsků. Podrobnosti v `teorie.md`.
+3D objekty se skládají z vrcholů, hran a ploch (faces) – dohromady tvoří mesh. Tvar objektu upravuji v Edit Mode, kde pracuji přímo s geometrií. Materiály definují, jak povrch reaguje na světlo – použila jsem Principled BSDF, který kombinuje různé vlastnosti povrchu (barva, lesk, průhlednost). Renderování je výpočet výsledného obrazu ze 3D scény, přičemž Cycles simuluje fyzikálně korektní pohyb světelných paprsků. Podrobnosti v `teorie.md`.
 
 ---
 
 ## Zdroje
 
-- [https://docs.blender.org/](https://docs.blender.org/) – dokumentace Blenderu
-- [https://www.youtube.com/@blenderguru](https://www.youtube.com/@blenderguru) – Blender Guru, tutoriál na zátiší
-- [https://polyhaven.com/](https://polyhaven.com/) – HDRI pro okolní osvětlení (CC0)
