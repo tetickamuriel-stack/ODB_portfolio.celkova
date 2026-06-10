@@ -19,8 +19,9 @@ na trávu jsem přidala obrázek trávy a dala na něj patickle system - hair, 1
 - pro bazén jsem znovu vymazala trochu trávy a místo toho jsem přidala čtverec se zaoblenými rohy, udělala duplikát který jsem zmenšila a zneviditelnila jsem ho pomocí boleen aby vytvořil vnitřek. Schody jsem vyrobila  stejně jako kachličky a pak duplikáty zvětšovala a posouvala aby tvořili půlkruhové schody. Na bazén i schody jsem následně přidala texturu modrých bazénových kachliček a přidala poloprůhlednou plochu na vrch s modrým odstínem a viditelným zčeřením aby to tvořilo iluzi vody. K bazénu jsem přidala dva duplikáty lehátka a velmi primitivní slunečník.
 - vedle bazénu jsem umístnila obdélníkový, vyvýšený záhon, mírně zvětšený v průměru ve vrchní polovině. v květináči je plocha s texturou hlíny. Pak jsem do tří z osmi květináčů dala tyče s kovovou texturou aby simulovali podporu pro rajčata. Z malé plochy jsem pomocí edit modu vytvořila siluetu listu a s pomocí modu solidify jsem vytvořila list rajčete. Na stone jsem použila válec který jsem prodloužila a přidala mu sekce aby měl víc faces a byl ohebnější. Konec vásle jsem zmenšila a vytvořila konečný stonek. V edit modu jsem z různých částí prodloužila jednotlivé faces a ohnula je aby vypadali jako větvičky. Listy jsem potom duplikovala a pečlivě je umístila na větvičky. Pod jednotlivé větévky jsem umístila malé kuličky,  nebylo je třeba upravovat jelikož bodou viděny jen z dálky. Rajčata jsem postupně zmenšovala směrem ke konci větvičky. Čím menší byla rajčata tím zelenější jsem jim dala barvu. Celou rostlinu s listy, stonkem, a plody jsem duplikovala a umístila do dalších dvou záhonů. V každém zájonu byli tři rostliny rajčat, takže celkově 9. U poslední záhonu jsem rostliny zmenšila aby dodala diversitu a vypadala jako cherry rajčátka.
 - do dvou největších záhonů jsem se rozhodla dát salát. Jako první jsem přidala sphere jako prostředek a dala jí zelenou barvu. Podobně jako listy u rajčat jsem z malé plochy pomocí edit modu vyrobila list salátu. Sculpting modem jsem přidala mírně low poly texturu salátového listu. Jednotlivé listy jsem duplikovala a rotací je obrátila aby vše sedělo, apk jsem jeden list za druhým skládala na sebe a vytvořila vrstvení.
+- u okrurek jsem jen vytvořila stonek stejně jako u rajčat a duplikovala jsem listi rajčat. dala jsem kovovou mřížku o kterou se má rostlina "opírat" a plody jsem dedělala kvůli vysoké hustotě listů, takže by stejně nebyli vidět
 
-Renderoval jsem v Cycles, protože jsem chtěl realistické odrazy na skle. Trvalo to přibližně 8 minut na 512 vzorcích.
+Renderovala jsem v Cycles, protože jsem chtěla realistické odrazy na skle. Trvalo to přibližně 15 minut na 256 vzorcích.
 
 ---
 
@@ -36,7 +37,7 @@ Renderoval jsem v Cycles, protože jsem chtěl realistické odrazy na skle. Trva
 
 ## Reflexe
 
-Jsem spokojený s výsledným osvětlením – teplé světlo z výlohy na dlažbě vypadá dobře. Modelování samotné bylo rychlejší, než jsem čekal. Co mi zabralo nejvíce času, bylo nastavení materiálu skla – průhlednost v Blenderu vyžaduje správné nastavení průhlednosti v render settings, jinak je sklo černé. Příště bych si scénu lépe naplánoval dopředu – přidával jsem objekty chaoticky a pak bylo těžké je v Outlineru najít, protože jsem je nepojmenoval.
+Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem ráda že jsem se do toho pustila. Naučila jsem se spoustu nových pojmů a zkratek které mi ulehčí práci v příštích projektech. Naučila jsem se nejen sculpting mode ale i to že ne vždy je potřeba, někdy úplně stačí dát texturu která vypadá podobně. Spoustu jsem se toho naučiula i ze shading modu který upravuje textury.
 
 ---
 
@@ -46,5 +47,14 @@ Jsem spokojený s výsledným osvětlením – teplé světlo z výlohy na dlaž
 
 ---
 
-## Zdroje
-
+## Zdroje - inspirace/tutoriály
+https://www.youtube.com/watch?v=Lxem4yMs5Dg&t=1341s
+https://www.youtube.com/watch?v=xX72ZuCOVVE
+https://www.youtube.com/watch?v=Mxwl6STm1h0
+https://www.youtube.com/watch?v=y7PdiGXbrD0
+https://www.youtube.com/watch?v=KgBuWl_rfuI
+https://www.youtube.com/watch?v=Hl8nfblJNF8&t=198s
+https://www.youtube.com/shorts/j2_yK81QbJM
+https://www.youtube.com/watch?v=QDyGvmq8AMA&t=2s
+https://www.youtube.com/watch?v=ygjMX5mSi1Y
+https://www.youtube.com/watch?v=60NGcPy_L0w&t=884s
