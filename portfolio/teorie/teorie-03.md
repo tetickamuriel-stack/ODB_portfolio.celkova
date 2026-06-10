@@ -1,6 +1,6 @@
 # Teorie – Blok 3: 3D grafika (Blender)
 
-## Co jsem se naučil
+## Co jsem se naučila
 
 Pochopil jsem základní rozdíl mezi 3D a 2D grafikou – ve 3D popisuji objekty matematicky v prostoru a výsledný obraz vzniká teprve renderováním. Naučil jsem se, že modelování a renderování jsou dvě oddělené fáze a každá vyžaduje jiné myšlení.
 
@@ -39,8 +39,7 @@ Světlo v Blenderu neslouží jen k „rozsvícení" scény – definuje náladu
 
 ---
 
-**Mesh**
-Datová struktura 3D objektu – soustava vrcholů, hran a ploch. Všechny objekty v Blenderu (krychle, koule, složitý model) jsou uvnitř meshe.
+Sculpting mode - režim, ve kterém můžeš tvarovat 3D model bez omezení a do detailů jako s digitální hlínou 
 
 ---
 
@@ -120,7 +119,7 @@ Panel v Blenderu zobrazující hierarchický seznam všech objektů ve scéně. 
 ---
 
 ## Zdroje
+https://copilot.microsoft.com/
+https://chatgpt.com/
 
-- [https://docs.blender.org/manual/en/latest/](https://docs.blender.org/manual/en/latest/)
-- [https://polyhaven.com/](https://polyhaven.com/) – HDRI a textury (CC0 licence)
-- [https://www.youtube.com/@blenderguru](https://www.youtube.com/@blenderguru)
+
