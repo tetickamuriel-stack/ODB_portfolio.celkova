@@ -23,10 +23,11 @@ Renderovala jsem v Cycles, protože jsem chtěla realistické odrazy na skle. Tr
 ## Výstupy
 
 - Soubor scény `zahrada.blend`
-- Renderovaný výsledek: <img width="1555" height="877" alt="Snímek obrazovky 2026-06-01 211709" src="https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95" />
+- Renderovaný výsledek: 
+
 ![obr1](https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95)
-                        <img width="1547" height="877" alt="Snímek obrazovky 2026-06-01 211728" src="https://github.com/user-attachments/assets/9a08e173-1d70-479f-8b73-01fd5c46b5c3" />
-                        ![obr2]([https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95](https://github.com/user-attachments/assets/9a08e173-1d70-479f-8b73-01fd5c46b5c3))
+                       
+![obr2]([https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95](https://github.com/user-attachments/assets/9a08e173-1d70-479f-8b73-01fd5c46b5c3))
 
 
 
@@ -47,11 +48,17 @@ Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem
 
 ## Zdroje - inspirace/tutoriály
 [x](https://www.youtube.com/watch?v=Lxem4yMs5Dg&t=1341s)
+
 [f](https://www.youtube.com/watch?v=xX72ZuCOVVE)
+
 [f](https://www.youtube.com/watch?v=Mxwl6STm1h0)
+
 [g](https://www.youtube.com/watch?v=y7PdiGXbrD0)
+
 [g](https://www.youtube.com/watch?v=KgBuWl_rfuI)
+
 [g](https://www.youtube.com/watch?v=Hl8nfblJNF8&t=198s)
+
 https://www.youtube.com/shorts/j2_yK81QbJM
 https://www.youtube.com/watch?v=QDyGvmq8AMA&t=2s
 https://www.youtube.com/watch?v=ygjMX5mSi1Y
