@@ -2,8 +2,7 @@
 
 ## Cíl
 
-Chtěla jsem vytvořit 3D scénu představující menší rodinný dům se zahradou – rybníček s kapry koi, ohniště s lehátky a bazén se zeleninovou zahrádkou. Chtěla jsem utvořit příjemné prostředí pro rodinu i starší lidi v důchodu nebo snad jsako chata na kterou se každé léto těšíme.
-
+Chtěla jsem vytvořit 3D scénu představující menší rodinný dům se zahradou – rybníček s koi kapry, ohniště s lehátky a bazén se zeleninovou zahrádkou. Chtěla jsem utvořit příjemné prostředí pro rodinu i starší lidi v důchodu, nebo snad jako chatu, na kterou se každé léto těšíme.
 ---
 
 ## Postup
@@ -34,13 +33,13 @@ Renderovala jsem v Cycles, protože jsem chtěla realistické odrazy na skle. Tr
 
 ## Reflexe
 
-Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem ráda že jsem se do toho pustila. Naučila jsem se spoustu nových pojmů a zkratek které mi ulehčí práci v příštích projektech. Naučila jsem se nejen sculpting mode ale i to že ne vždy je potřeba, někdy úplně stačí dát texturu která vypadá podobně. Spoustu jsem se toho naučiula i ze shading modu který upravuje textury.
+Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem ráda, že jsem se do toho pustila. Naučila jsem se spoustu nových pojmů a zkratek, které mi ulehčí práci v příštích projektech. Naučila jsem se nejen sculpting mode, ale i to, že ne vždy je potřeba, někdy úplně stačí dát texturu, která vypadá podobně. Spoustu jsem se toho naučila i ze shading modu, který upravuje textury.
 
 ---
 
 ## Teoretické pozadí (stručně)
 
-3D objekty se skládají z vrcholů, hran a ploch (faces) – dohromady tvoří mesh. Tvar objektu upravuji v Edit Mode, kde pracuji přímo s geometrií. Materiály definují, jak povrch reaguje na světlo – použila jsem Principled BSDF, který kombinuje různé vlastnosti povrchu (barva, lesk, průhlednost). Renderování je výpočet výsledného obrazu ze 3D scény, přičemž Cycles simuluje fyzikálně korektní pohyb světelných paprsků. Podrobnosti v `teorie.md`.
+3D objekty se skládají z vrcholů, hran a ploch (faces) – dohromady tvoří mesh. Tvar objektu upravuji v Edit Modu, kde pracuji přímo s geometrií. Materiály definují, jak povrch reaguje na světlo – použila jsem Principled BSDF, který kombinuje různé vlastnosti povrchu (barvu, lesk, průhlednost). Renderování je výpočet výsledného obrazu ze 3D scény, přičemž Cycles simuluje fyzikálně korektní pohyb světelných paprsků. Podrobnosti v `teorie.md`.
 
 ---
 
