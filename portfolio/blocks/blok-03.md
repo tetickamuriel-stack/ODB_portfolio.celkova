@@ -1,8 +1,7 @@
 # Blok 3 – 3D grafika (Blender)
 
 ## Cíl
-
-Chtěla jsem vytvořit 3D scénu představující menší rodinný dům se zahradou – rybníček s koi kapry, ohniště s lehátky a bazén se zeleninovou zahrádkou. Chtěla jsem utvořit příjemné prostředí pro rodinu i starší lidi v důchodu, nebo snad jako chatu, na kterou se každé léto těšíme.
+3D scéna představující menší rodinný dům se zahradou – rybníček s koi kapry, ohniště s lehátky a bazén se zeleninovou zahrádkou. Příjemné prostředí pro rodinu i starší lidi v důchodu.
 ---
 
 ## Postup
