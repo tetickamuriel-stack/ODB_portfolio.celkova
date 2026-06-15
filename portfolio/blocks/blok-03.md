@@ -38,7 +38,7 @@ Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem
 
 ## Teoretické pozadí (stručně)
 
-3D objekty se skládají z vrcholů, hran a ploch (faces) – dohromady tvoří mesh. Tvar objektu upravuji v Edit Modu, kde pracuji přímo s geometrií. Materiály definují, jak povrch reaguje na světlo – použila jsem Principled BSDF, který kombinuje různé vlastnosti povrchu (barvu, lesk, průhlednost). Renderování je výpočet výsledného obrazu ze 3D scény, přičemž Cycles simuluje fyzikálně korektní pohyb světelných paprsků. Podrobnosti v `teorie.md`.
+3D objekty se skládají z vrcholů, hran a ploch (faces) – dohromady tvoří mesh. Tvar objektu upravuji v Edit Modu, kde pracuji přímo s geometrií. Materiály definují, jak povrch reaguje na světlo – použila jsem Principled BSDF, který kombinuje různé vlastnosti povrchu (barvu, lesk, průhlednost). Renderování je výpočet výsledného obrazu ze 3D scény, přičemž Cycles simuluje fyzikálně korektní pohyb světelných paprsků. Podrobnosti: https://github.com/tetickamuriel-stack/ODB_portfolio.celkova/blob/main/portfolio/teorie/teorie-03.md 
 
 ---
 
