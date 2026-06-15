@@ -5,18 +5,18 @@
 Jmenuji se Zuzana Čelková a jsem student technického lycea se zaměřením na 3D grafiku. 
 
 ### Zájmy
-- 
-- práce s počítačem a technologiemi obecně
-- digitální grafika (úprava obrázků, jednoduchý design)
-- počítačové hry – nejen hraní, ale i přemýšlení nad jejich fungováním
-- hudba jako prostředek soustředění i relaxace
+- 3D grafika
+- kreslení
+- malba
+- short filmy
+- fotografie
 - práce s informacemi a jejich ověřování na internetu
 
 ### Zaměření
 Ve studiu se orientuji především na:
-- základy algoritmizace a programování
-- porozumění tomu, jak funguje hardware a software
-- práci s kancelářskými nástroji a digitální komunikací
+- základy Blenderu
+- návrhy zahrad ve 3D
+- komplexní objekty s 
 - základy databází a správy dat
 - bezpečnost na internetu a ochranu osobních údajů
 
