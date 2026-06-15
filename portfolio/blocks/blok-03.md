@@ -27,7 +27,7 @@ Renderovala jsem v Cycles, protože jsem chtěla realistické odrazy na skle. Tr
 
 ![obr1](https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95)
                        
-![obr2](https://github.com/user-attachments/assets/f0849a6d-8aa4-44a7-bbe5-62d12331fb95](https://github.com/user-attachments/assets/9a08e173-1d70-479f-8b73-01fd5c46b5c3)
+![obr2](https://github.com/user-attachments/assets/9a08e173-1d70-479f-8b73-01fd5c46b5c3)
 
 
 
