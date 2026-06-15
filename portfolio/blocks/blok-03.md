@@ -47,19 +47,22 @@ Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem
 ---
 
 ## Zdroje - inspirace/tutoriály
-[x](https://www.youtube.com/watch?v=Lxem4yMs5Dg&t=1341s)
+[sculpting fish tutorial](https://www.youtube.com/watch?v=Lxem4yMs5Dg&t=1341s)
 
-[f](https://www.youtube.com/watch?v=xX72ZuCOVVE)
+[grass tutorial](https://www.youtube.com/watch?v=xX72ZuCOVVE)
 
-[f](https://www.youtube.com/watch?v=Mxwl6STm1h0)
+[stone path tutorial](https://www.youtube.com/watch?v=Mxwl6STm1h0)
 
-[g](https://www.youtube.com/watch?v=y7PdiGXbrD0)
+[low poly tree tutorial](https://www.youtube.com/watch?v=y7PdiGXbrD0)
 
-[g](https://www.youtube.com/watch?v=KgBuWl_rfuI)
+[water surface tutorial](https://www.youtube.com/watch?v=KgBuWl_rfuI)
 
-[g](https://www.youtube.com/watch?v=Hl8nfblJNF8&t=198s)
+[bathroom tiles i shading mode tutorial](https://www.youtube.com/watch?v=Hl8nfblJNF8&t=198s)
 
-https://www.youtube.com/shorts/j2_yK81QbJM
-https://www.youtube.com/watch?v=QDyGvmq8AMA&t=2s
-https://www.youtube.com/watch?v=ygjMX5mSi1Y
-https://www.youtube.com/watch?v=60NGcPy_L0w&t=884s
+[pool chair tutorial](https://www.youtube.com/shorts/j2_yK81QbJM)
+
+[tree bark](https://www.youtube.com/watch?v=QDyGvmq8AMA&t=2s)
+
+[stylized pond rocks](https://www.youtube.com/watch?v=ygjMX5mSi1Y)
+
+[dirt texture in shading mode](https://www.youtube.com/watch?v=60NGcPy_L0w&t=884s)
