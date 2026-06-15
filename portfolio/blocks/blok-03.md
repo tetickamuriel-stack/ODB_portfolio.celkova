@@ -43,13 +43,13 @@ Jsem spokojená s výsledkem. Přestože tento projekt byl náročnější, jsem
 ---
 
 ## Zdroje - inspirace/tutoriály
- \([ ~ ]\)https://www.youtube.com/watch?v=Lxem4yMs5Dg&t=1341s)
- \([ ~ ]\)https://www.youtube.com/watch?v=xX72ZuCOVVE)
- \([ ~ ]\)https://www.youtube.com/watch?v=Mxwl6STm1h0)
- \([ ~ ]\)https://www.youtube.com/watch?v=y7PdiGXbrD0)
- \([ ~ ]\)https://www.youtube.com/watch?v=KgBuWl_rfuI)
- \([ ~ ]\)https://www.youtube.com/watch?v=Hl8nfblJNF8&t=198s)
- \([ ~ ]\)https://www.youtube.com/shorts/j2_yK81QbJM)
- \([ ~ ]\)https://www.youtube.com/watch?v=QDyGvmq8AMA&t=2s)
- \([ ~ ]\)https://www.youtube.com/watch?v=ygjMX5mSi1Y)
- \([ ~ ]\)https://www.youtube.com/watch?v=60NGcPy_L0w&t=884s)
+https://www.youtube.com/watch?v=Lxem4yMs5Dg&t=1341s
+https://www.youtube.com/watch?v=xX72ZuCOVVE
+https://www.youtube.com/watch?v=Mxwl6STm1h0
+https://www.youtube.com/watch?v=y7PdiGXbrD0
+https://www.youtube.com/watch?v=KgBuWl_rfuI
+https://www.youtube.com/watch?v=Hl8nfblJNF8&t=198s
+https://www.youtube.com/shorts/j2_yK81QbJM
+https://www.youtube.com/watch?v=QDyGvmq8AMA&t=2s
+https://www.youtube.com/watch?v=ygjMX5mSi1Y
+https://www.youtube.com/watch?v=60NGcPy_L0w&t=884s
